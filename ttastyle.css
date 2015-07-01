@@ -85,8 +85,5 @@ a.header:hover, a.header:active {
 }
 
 #aboutus_map {
-	width:600px;
-	height:450px;
 	float:left;
-	padding:10px;
 }
