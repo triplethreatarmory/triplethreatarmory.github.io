@@ -10,7 +10,7 @@ ul {
 	overflow: hidden;
         margin-left: auto;
         margin-right: auto;
-	width: 600px;
+	width: 525px;
 }
 
 li {
@@ -22,7 +22,7 @@ li {
 
 a.header:link, a.header:visited {
 	display: block;
-	width: 142px;
+	width: 175px;
 	font-weight: bold;
 	color: #FFFFFF;
 	background-color: #000000;
@@ -54,7 +54,7 @@ a.header:hover, a.header:active {
 
 #header {
 	background-color: #000000;
-	height: 331px;
+	height: 329px;
 	width: 100%;
         margin-left: auto;
         margin-right: auto;
