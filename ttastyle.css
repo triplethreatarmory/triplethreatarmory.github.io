@@ -83,3 +83,10 @@ a.header:hover, a.header:active {
         margin-right: auto;
 	text-align: center;
 }
+
+#aboutus_map {
+	width:600px;
+	height:450px;
+	float:left;
+	padding:10px;
+}
