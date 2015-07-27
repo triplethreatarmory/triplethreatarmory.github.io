@@ -84,14 +84,14 @@ a.header:hover, a.header:active {
 	text-align: center;
 }
 
-#main_left{
+main_left{
 	width: 50%;
 	float: left;
 	padding: 15px;	
 }
 
-#main_right{
+main_right{
 	width: 50%;
-	float: right;
+	float: left;
 	padding: 15px;
 }
