@@ -92,6 +92,6 @@ a.header:hover, a.header:active {
 
 #main_right{
 	width: 50%;
-	float: left;
+	float: right;
 	padding: 15px;
 }
