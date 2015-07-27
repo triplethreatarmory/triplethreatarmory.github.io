@@ -85,13 +85,13 @@ a.header:hover, a.header:active {
 }
 
 main_left{
-	width: 50%;
+	width: 200px;
 	float: left;
 	padding: 15px;	
 }
 
 main_right{
-	width: 50%;
+	width: 200px;
 	float: left;
 	padding: 15px;
 }
