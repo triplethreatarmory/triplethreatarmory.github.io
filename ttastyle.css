@@ -69,6 +69,7 @@ a.header:hover, a.header:active {
 	text-align: center;
         margin-left: auto;
         margin-right: auto;
+        float: left;
 }
 
 #main_info {
