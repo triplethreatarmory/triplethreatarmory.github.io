@@ -81,7 +81,7 @@ a.header:hover, a.header:active {
 	background-color: #DCDCDC;
 	box-shadow: 10px 10px 5px black;
         overflow:hidden;
-	text-align: center;
+	text-align: left;
 }
 
 #main_left{
