@@ -71,6 +71,7 @@ a.header:hover, a.header:active {
         margin-right: auto;
         float: left;
         overflow:hidden;
+        clear:both;
 }
 
 #main_info {
