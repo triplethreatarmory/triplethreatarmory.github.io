@@ -69,14 +69,14 @@ a.header:hover, a.header:active {
 	text-align: center;
         margin-left: auto;
         margin-right: auto;
-        float: left;
         overflow:hidden;
         clear:both;
 }
 
 #main_info {
 	border: 2px solid #000000;
-	margin: 10px;
+        margin-left: auto;
+        margin-right: auto;
 	padding: 20px; 
 	width: 75%;
 	height: auto;
