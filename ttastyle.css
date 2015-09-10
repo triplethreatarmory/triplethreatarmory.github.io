@@ -80,7 +80,6 @@ a.header:hover, a.header:active {
 	height: auto;
 	background-color: #DCDCDC;
 	box-shadow: 10px 10px 5px black;
-        margin:0 auto;
         overflow:hidden;
 	text-align: center;
 }
