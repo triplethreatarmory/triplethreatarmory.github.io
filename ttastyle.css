@@ -79,8 +79,9 @@ a.header:hover, a.header:active {
 	height: auto;
 	background-color: #DCDCDC;
 	box-shadow: 10px 10px 5px black;
-        margin-left: auto;
-        margin-right: auto;
+        margin:0 auto;
+        float:left;
+        overflow:hidden;
 	text-align: center;
 }
 
