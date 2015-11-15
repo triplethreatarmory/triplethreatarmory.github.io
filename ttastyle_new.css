@@ -3,6 +3,18 @@ body {
  	background-image: url("bg.png");
 }
 
+p {
+	margin: 0;
+	padding: 0;
+	border: 0;	
+}
+
+h2 {
+	margin: 0;
+	padding: 0;
+	border: 0;	
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
