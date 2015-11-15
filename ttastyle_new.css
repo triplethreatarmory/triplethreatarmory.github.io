@@ -71,3 +71,9 @@ a.header:hover, a.header:active {
         margin-right: auto;
         clear:both;
 }
+#section1 {
+	background-color: #DCDCDC;
+}
+#section2 {
+	background-color: #000000;
+}
