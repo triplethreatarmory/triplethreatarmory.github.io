@@ -17,6 +17,13 @@ h1 {
 	text-align: center;
 }
 
+h3 {
+	margin: 0;
+	padding: 1000;
+	border: 0;
+	text-align: center;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
@@ -107,5 +114,5 @@ a.navheader:hover, a.navheader:active {
 .float {
 	float: left;
 	overflow:hidden;
-	width: 33%;
+	width: 200px;
 }
