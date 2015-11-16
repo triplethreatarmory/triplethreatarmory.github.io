@@ -114,6 +114,6 @@ a.navheader:hover, a.navheader:active {
 .float {
 	float: left;
 	overflow:hidden;
-	width: 32%;
-	padding: 25px;
+	width: 31%;
+	margin: 15px;
 }
