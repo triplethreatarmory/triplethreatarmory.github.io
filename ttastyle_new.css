@@ -95,11 +95,13 @@ a.navheader:hover, a.navheader:active {
 .section1 {
 	background-color: #DCDCDC;
 	color: #000000;
+	overflow:hidden;
 }
 
 .section2 {
 	background-color: #000000;
 	color: #DCDCDC;
+	overflow:hidden;
 }
 
 .float {
