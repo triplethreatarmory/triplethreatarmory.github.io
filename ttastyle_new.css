@@ -106,4 +106,5 @@ a.navheader:hover, a.navheader:active {
 
 .float {
 	float: left;
+	overflow:hidden;
 }
