@@ -66,12 +66,13 @@ a.header:hover, a.header:active {
         margin-right: auto;
 }
 
-#logo {
+.logo {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
-#header {
+
+.header {
 	background-color: #000000;
 	height: 329px;
 	width: 100%;
@@ -79,7 +80,7 @@ a.header:hover, a.header:active {
         margin-right: auto;
 }
 
-#footer {
+.footer {
 	background-color: #000000;
 	height: 40px;
 	width: 100%;
@@ -90,11 +91,13 @@ a.header:hover, a.header:active {
         margin-right: auto;
         clear:both;
 }
-#section1 {
+
+.section1 {
 	background-color: #DCDCDC;
 	color: #000000;
 }
-#section2 {
+
+.section2 {
 	background-color: #000000;
 	color: #DCDCDC;
 }
