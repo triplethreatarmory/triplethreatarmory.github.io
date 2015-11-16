@@ -101,3 +101,9 @@ a.navheader:hover, a.navheader:active {
 	background-color: #000000;
 	color: #DCDCDC;
 }
+
+.float {
+	float: left;
+        margin-left: auto;
+        margin-right: auto;
+}
