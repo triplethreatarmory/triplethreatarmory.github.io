@@ -80,7 +80,7 @@ a.navheader:hover, a.navheader:active {
 }
 
 .header {
-	background-color: #000000;
+	background-color: #FFFFFF;
 	height: 329px;
 	width: 100%;
         margin-left: auto;
@@ -88,7 +88,7 @@ a.navheader:hover, a.navheader:active {
 }
 
 .footer {
-	background-color: #000000;
+	background-color: #FFFFFF;
 	height: 40px;
 	width: 100%;
 	color: #DCDCDC;
@@ -97,6 +97,7 @@ a.navheader:hover, a.navheader:active {
         margin-left: auto;
         margin-right: auto;
         clear:both;
+        color: #000000;
 }
 
 .section1 {
