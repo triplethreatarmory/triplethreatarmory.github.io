@@ -131,4 +131,5 @@ a.navheader:hover, a.navheader:active {
      margin-left: auto;
      margin-right: auto;
      text-align: center;
+     padding: 25px;
 }
