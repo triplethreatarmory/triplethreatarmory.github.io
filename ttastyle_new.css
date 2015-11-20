@@ -28,7 +28,7 @@ h2 {
 	color: #97694F;
 }
 
-ul {
+.navul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
@@ -38,7 +38,7 @@ ul {
 	width: 1050px;
 }
 
-li {
+.navli {
 	float: left;
         margin-left: auto;
         margin-right: auto;
@@ -124,7 +124,7 @@ a.navheader:hover, a.navheader:active {
 }
 
 .wrapLarge {
-    width: 1150px;
+    width: 1200px;
     margin-left: auto;
     margin-right: auto;
     overflow:hidden;
