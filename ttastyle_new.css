@@ -112,6 +112,17 @@ a.navheader:hover, a.navheader:active {
 	overflow:hidden;
 }
 
+.wrap {
+    padding: 50px;
+    text-align: center;
+    width: 800px;  
+}
+
+.container {
+     display: inline-block;    
+     padding: 25px;   
+}
+
 .float25 {
 	float: left;
 	overflow:hidden;
