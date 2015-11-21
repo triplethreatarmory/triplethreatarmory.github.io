@@ -28,6 +28,10 @@ h2 {
 	color: #97694F;
 }
 
+ul {
+	text-align: left;
+}
+
 .navul {
 	list-style-type: none;
 	margin: 0;
@@ -117,7 +121,7 @@ a.navheader:hover, a.navheader:active {
 }
 
 .wrap {
-    width: 525px;
+    width: 550px;
     margin-left: auto;
     margin-right: auto;
     overflow:hidden;
