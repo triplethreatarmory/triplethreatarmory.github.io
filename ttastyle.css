@@ -1,31 +1,56 @@
 body {
 	background-color: #DCDCDC;
+	font-family: 'Roboto', sans-serif;
  	background-image: url("bg.png");
 }
 
-ul {
+p {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: center;
+	font-size: 18px;
+}
+
+h1 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: center;
+	color: #006400;
+}
+
+h2 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	text-align: center;
+	color: #97694F;
+}
+
+.navul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
         margin-left: auto;
         margin-right: auto;
-	width: 525px;
+	width: 1050px;
 }
 
-li {
+.navli {
 	float: left;
         margin-left: auto;
         margin-right: auto;
 
 }
 
-a.header:link, a.header:visited {
+a.navheader:link, a.navheader:visited {
 	display: block;
 	width: 167px;
 	font-weight: bold;
-	color: #FFFFFF;
-	background-color: #000000;
+	color: #000000;
+	background-color: #FFFFFF;
 	text-align: center;
 	padding: 4px;
 	text-decoration: none;
@@ -39,9 +64,9 @@ a.header:link, a.header:visited {
 	margin-right: auto;
 }
 
-a.header:hover, a.header:active {
-	background-color: #DCDCDC;
-	color: #000000;
+a.navheader:hover, a.navheader:active {
+	background-color: #000000;
+	color: #FFFFFF;
 	text-decoration: underline;
         -o-transition: .5s;
         -ms-transition: .5s;
@@ -52,16 +77,22 @@ a.header:hover, a.header:active {
         margin-right: auto;
 }
 
-#header {
-	background-color: #000000;
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	background-color: #FFFFFF;
 	height: 329px;
 	width: 100%;
         margin-left: auto;
         margin-right: auto;
 }
 
-#footer {
-	background-color: #000000;
+.footer {
+	background-color: #FFFFFF;
 	height: 40px;
 	width: 100%;
 	color: #DCDCDC;
@@ -70,26 +101,46 @@ a.header:hover, a.header:active {
         margin-left: auto;
         margin-right: auto;
         clear:both;
+        color: #000000;
 }
 
-#main_info {
-	border: 2px solid #000000;
-	margin: 10px;
-	padding: 20px; 
-	width: 75%;
-	height: auto;
+.section1 {
 	background-color: #DCDCDC;
-	box-shadow: 10px 10px 5px black;
-        overflow:hidden;
-	text-align: left;
+	color: #000000;
+	overflow:hidden;
 }
 
-#main_left{
-	width: 50%;
-	float: left;
+.section2 {
+	background-color: #000000;
+	color: #DCDCDC;
+	overflow:hidden;
 }
 
-#main_right{
-	width: 50%;
-	float: left;
+.wrap {
+    width: 525px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+}
+
+.wrapLarge {
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+}
+
+.wrapMed {
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    overflow:hidden;
+}
+
+.container {
+     float: left;  
+     margin-left: auto;
+     margin-right: auto;
+     text-align: center;
+     padding: 10px;
 }
