@@ -1,4 +1,6 @@
 body {
+	margin-left: auto;
+	margin-right: auto;
 	background-color: #DCDCDC;
 	font-family: 'Roboto', sans-serif;
  	background-image: url("iron_texture47.jpg");
