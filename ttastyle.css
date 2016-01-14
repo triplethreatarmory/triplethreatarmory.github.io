@@ -88,7 +88,7 @@ a.navheader:hover, a.navheader:active {
 }
 
 .header {
-	
+	background-image: url("iron_texture47.jpg");
 	height: 375px;
 	width: 100%;
         margin-left: auto;
