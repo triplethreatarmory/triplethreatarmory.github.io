@@ -83,7 +83,7 @@ a.navheader:hover, a.navheader:active {
 }
 
 .logo {
-	
+	display: block;
 	margin-left: auto;
 	margin-right: auto;
 }
